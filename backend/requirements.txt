@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+statsmodels
+scipy
+scikit-learn
+statsmodels
+prophet
+plotly
+fastapi
+uvicorn
