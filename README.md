@@ -152,10 +152,6 @@ The system evaluates several forecasting models and compares them based on RMSE.
 - Data source depends on Yahoo Finance availability and ticker support.
 - The application is intended as a demonstration project for time-series forecasting and stock analysis.
 
-## License
-
-This project is provided for educational and demonstration purposes.
-
 ## Contributing
 
 Contributions, improvements, and bug fixes are welcome. Feel free to fork the repository and submit a pull request.
